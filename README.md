@@ -1,5 +1,1 @@
 # MySQL
-udemy course
-
-
-test
